@@ -1,2 +1,14 @@
-# question
-List of questions got asked
+#List of questions got asked
+
+## HTML
+
+. 
+
+##CSS
+
+
+##JS
+
+
+##General
+
